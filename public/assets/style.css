@@ -1,0 +1,14 @@
+html {
+    background-color: rgb(218, 218, 218);
+}
+body {
+    padding: 10px;
+    border: black solid 1px;
+    border-radius: 5px;
+    background-color: white;
+    margin: 15px 10% auto 10%;
+}
+header {
+    font-weight: 600;
+    margin-left: 15%;
+}
